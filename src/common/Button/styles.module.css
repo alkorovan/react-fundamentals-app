@@ -4,11 +4,11 @@
 	justify-content: center;
 	height: 50px;
 	padding: 8px 16px;
-	background-color: #0330e4;
+	background-color: #08d61a;
 	font-size: 13px;
 	color: #fff;
 	border: none;
-	text-decoration: none;
+	text-decoration: none !important;
 	border-radius: 4px;
 	cursor: pointer;
 }
